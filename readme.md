@@ -15,8 +15,9 @@ If you've already installed AutoHotKey, just open CoolLockTool.ahk with AutoHotk
 ## Executable
 You can also use CoolLockTool.exe, which can work standalone w/o AutoHotKey.
 
-# Usage
+## Usage
 By default, `F8` initiates the script. If you have AutoHotkey installed, you can change this hotkey.
+To change the icon, put a file next to the script and call it "alock.png"
 
 ## Start with Windows
 Standing in the directory that CoolLockTool lays in:
