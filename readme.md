@@ -9,7 +9,7 @@ Cool Lock Tool does the following, when you press "F8"
 
 It looks like this:
 
-![Lock](https://user-images.githubusercontent.com/22538066/83337516-4e558400-a2bc-11ea-9697-2b30f6ea505e.png)
+![SS1](https://user-images.githubusercontent.com/22538066/83339628-1fe1a400-a2d0-11ea-874e-ac22716f3820.png)
 
 ## Installation
 If you've already installed AutoHotKey, just open CoolLockTool.ahk with AutoHotkey.
