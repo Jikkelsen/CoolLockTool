@@ -7,6 +7,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #SingleInstance, Force
+#NoTrayIcon
 
 FULL 			:= A_Temp "\Lock.png"
 SMALL			:= A_Temp "\Lock_small.png"
