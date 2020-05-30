@@ -8,9 +8,9 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #SingleInstance, Force
 
-FULL 			:= A_ScriptDir "\Lock.png"
-SMALL			:= A_ScriptDir "\Lock_small.png"
-BIG				:= A_ScriptDir "\Lock_big.png"
+FULL 			:= A_Temp "\Lock.png"
+SMALL			:= A_Temp "\Lock_small.png"
+BIG				:= A_Temp "\Lock_big.png"
 LockImage		:= A_ScriptDir "\alock.png"
 
 F8::
