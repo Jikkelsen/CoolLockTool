@@ -7,6 +7,8 @@ Cool Lock Tool does the following, when you press "F8"
 * Sets the newly created image as your Lockscreen
 * locks your computer
 
+It looks like this:
+
 ![Lock](https://user-images.githubusercontent.com/22538066/83337516-4e558400-a2bc-11ea-9697-2b30f6ea505e.png)
 
 ## Installation
